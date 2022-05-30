@@ -1,0 +1,98 @@
+<template>
+    <nav class="navcontainer">
+        <ul class="nav">
+            <li><a href="" class="logo-company">
+                <picture >
+                    <img src="../assets/images/logo.png" alt="logo" class="logo-c">
+                </picture>
+                </a>
+            </li>
+            <li><a href="" id="menu-icon"><span class="material-icons-outlined">
+                reorder</span></a>
+            </li>
+        </ul>
+        <ul id="smenu" class="submenu">
+            <li><a href="" class="menu_link">Contacto</a></li>
+            <li><a href="" class="menu_link">Menú Cafetería</a></li>
+            <li><a href="" class="menu_link">Menú Comida</a></li>
+            <li><a href="" class="menu_link">Menú Bebidas</a></li>
+            <router-link to="/"><li><a href="" class="menu_link">Sobre Nosotros</a></li></router-link>
+        </ul>
+    </nav>
+</template>
+
+<script>
+export default {
+    name: 'Header',
+}
+</script>
+
+<style scoped>
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+    background-color: rgb(199, 191, 172);
+}
+
+.nav {
+    background-color: rgb(155, 117, 60);
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.logo-c {
+    width: 150px ;
+    height: 90px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: flex-end;
+}
+
+.material-icons-outlined {
+    display: flex;
+    font-size: 3rem;
+    margin-left: 6px;
+}
+
+#menu-icon {
+    text-decoration: none;
+    color: white;
+ 
+} 
+.submenu{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    background-color: rgb(155, 117, 60);
+    margin-top: -100%;
+    margin-bottom: 90px;
+    transition: all .5s;
+}
+
+.show{
+    margin-top: 0%;
+    
+}
+
+.menu_link{
+    display: block;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.6rem;
+}
+</style>
