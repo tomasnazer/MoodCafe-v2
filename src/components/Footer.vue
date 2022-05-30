@@ -3,17 +3,17 @@
             <div class="icon-container">
                 <div class="ig">
                     <a href="https://www.instagram.com/mood_caferesto/" target="_blank">
-                    <picture><img src="" alt="ig-icon"></picture>
+                    <picture><img src="../assets/images/igicon.png" alt="ig-icon"></picture>
                     </a>
                 </div>
                 <div class="fb">
                     <a href="https://www.facebook.com/moodcafeyresto" target="_blank">
-                    <picture><img src="" alt="fb-icon"></picture>
+                    <picture><img src="../assets/images/fbicon.png" alt="fb-icon"></picture>
                     </a>
                 </div>
                 <div class="wsp">
                     <a href="https://api.whatsapp.com/send?phone=543625292384&text=Hola%20%F0%9F%91%8B%20" target="_blank">
-                    <picture><img src="" alt="wsp-icon"></picture>
+                    <picture><img src="../assets/images/wsp.png" alt="wsp-icon"></picture>
                     </a>
                 </div>
                 <div class="direction-container">
