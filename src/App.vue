@@ -27,7 +27,8 @@ export default {
 </script>
 
 <style scoped>
-.style {
+
+.styles {
     font-size: 62.5%;
     background-color: rgb(199, 191, 172);
     font-family: 'Montserrat', sans-serif;

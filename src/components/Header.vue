@@ -3,7 +3,7 @@
         <ul class="nav">
             <li><a href="" class="logo-company">
                 <picture >
-                    <img src="../assets/images/logo.png" alt="logo" class="logo-c">
+                    <router-link to="/"><img src="../assets/images/logo.png" alt="logo" class="logo-c"></router-link>
                 </picture>
                 </a>
             </li>
@@ -13,10 +13,10 @@
         </ul>
         <ul id="smenu" class="submenu" :class="{'show': isMenuOpen == true}">
             <li><a href="" class="menu_link">Contacto</a></li>
-            <li><a href="" class="menu_link">Menú Cafetería</a></li>
+            <li><router-link to="/coffemenu" class="menu_link">Menú Cafetería</router-link></li>
             <li><a href="" class="menu_link">Menú Comida</a></li>
             <li><a href="" class="menu_link">Menú Bebidas</a></li>
-            <router-link to="/"><li><a href="" class="menu_link">Sobre Nosotros</a></li></router-link>
+            <li><router-link to="/about" class="menu_link">Sobre Nosotros</router-link></li>
         </ul>
     </nav>
 </template>
