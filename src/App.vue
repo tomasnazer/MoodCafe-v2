@@ -4,8 +4,9 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav> -->
-  <Footer />
   <router-view/>
+  <Footer />
+  
 </template>
 
 <script>
