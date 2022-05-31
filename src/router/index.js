@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import Header from '../components/Header.vue'
+import CoffMenuView from '../views/CoffMenuView.vue'
 
 const routes = [
   {

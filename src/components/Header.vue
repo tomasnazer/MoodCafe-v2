@@ -7,11 +7,11 @@
                 </picture>
                 </a>
             </li>
-            <li><a href="" id="menu-icon"><span class="material-icons-outlined">
+            <li @click.prevent="isMenuOpen = !isMenuOpen"><a href="" id="menu-icon"><span class="material-icons-outlined">
                 reorder</span></a>
             </li>
         </ul>
-        <ul id="smenu" class="submenu">
+        <ul id="smenu" class="submenu" :class="{'show': isMenuOpen == true}">
             <li><a href="" class="menu_link">Contacto</a></li>
             <li><a href="" class="menu_link">Menú Cafetería</a></li>
             <li><a href="" class="menu_link">Menú Comida</a></li>
@@ -24,7 +24,11 @@
 <script>
 export default {
     name: 'Header',
-}
+    data(){ 
+        return {
+        isMenuOpen: false,
+        }
+    }}
 </script>
 
 <style scoped>
