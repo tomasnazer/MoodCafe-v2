@@ -1,0 +1,436 @@
+{
+    "Coffe": [
+        {
+            "Titulo":"CAFETERIA",
+            "nombre": "Café Doble",
+            "precio": "250",
+            "descripcion": "Doble medida de espresso",
+            "img": "/Prueba1/images/Café con Leche.png",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Café Americano",
+            "precio": "220",
+            "descripcion": "Base de espresso y agua",
+            "img": "",
+            "stock": "false"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Cafe espresso",
+            "precio": "200",
+            "descripcion": "Medida de cafe de 60ml",
+            "img": "",
+            "stock": "false"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Macciato",
+            "precio": "",
+            "descripcion": "Café con un poco de espuma",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"CAPUCCINOS Y LATTES",
+            "nombre": "Capuccino Clásico",
+            "precio": "300",
+            "descripcion": "Doble medida de espresso",
+            "img": "/Prueba1/images/latte1.jpg",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Capuccino Italiano",
+            "precio": "300",
+            "descripcion": "Doble medida de espresso",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Capuccino de Dulce de leche",
+            "precio": "300",
+            "descripcion": "Doble medida de espresso",
+            "img": "",
+            "stock": "false"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Capuccino de leche condensada",
+            "precio": "300",
+            "descripcion": "Doble medida de espresso",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Nutelatte",
+            "precio": "350",
+            "descripcion": "Café con leche con porcion de nutella",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"FRIOS",
+            "nombre": "Ice Lattes",
+            "precio": "350",
+            "descripcion": "Bebida fria con hielo, base de espresso, leche y caramelo",
+            "img": "/Prueba1/images/icecoffe.jpg",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Moccacino Frío",
+            "precio": "350",
+            "descripcion": "Espresso mezclado salsa de chocolate, cacao en polvo y espuma de leche",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Afogatto",
+            "precio": "500",
+            "descripcion": "Bebida dulce con base de espresso sobre 2 bochas de crema americana",
+            "img": "",
+            "stock": "false"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Ice Americano",
+            "precio": "350",
+            "descripcion": "Base de hielo y espresso sobre un colchón de agua filtrada",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Chocolatada",
+            "precio": "300",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"INFUSIONES",
+            "nombre": "Té con leche o limón",
+            "precio": "150",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Té con hierbas",
+            "precio": "150",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Mate cocido",
+            "precio": "200",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Mate cocido con leche",
+            "precio": "220",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"COMBOS",
+            "nombre": "MooD I",
+            "precio": "300",
+            "descripcion": "Café con leche + 2 medialunas",
+            "img": "../images/moodI.jpg",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "MooD II",
+            "precio": "300",
+            "descripcion": "Café con leche + 2 tostadas con untables",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Mood III",
+            "precio": "300",
+            "descripcion": "Café con leche + Tostado de Jamon y Queso",
+            "img": "../images/moodiii.jpg",
+            "stock": "false"
+        },
+        {
+            "Titulo":"",
+            "nombre": "MooD IV",
+            "precio": "300",
+            "descripcion": "Café con leche + Porción de Chipá",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Balcarce I",
+            "precio": "300",
+            "descripcion": "Jarrita con producto balcarce(Alfajor/Galletita/Conito",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Balcarce II",
+            "precio": "300",
+            "descripcion": "Jarrita con Porción de Torta Balcarce",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Natural",
+            "precio": "700",
+            "descripcion": "Café con leche o té, yogur con frutas y granola, copa de jugo",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Desayuno Americano",
+            "precio": "700",
+            "descripcion": "Café con leche + revuelto de huevo y bacon",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Saludable",
+            "precio": "700",
+            "descripcion": "Bowl de granola con tostadas acompañadas de miel y frutas de estación, mini jugo de naranja",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Clásico",
+            "precio": "1100",
+            "descripcion": "2 café con leche, 2 medialunas, tostadas con queso o manteca y dulce de leche, 6 chipa y 2 mini jugos de naranja",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Completo",
+            "precio": "1400",
+            "descripcion": "2 café con leche, 2 medialunas,2 jugos chicos,2 mini tostados , chipa y torta",
+            "img": "",
+            "stock": "true"
+        }
+        
+    ],
+
+    "Drinks": [
+        {
+            "Titulo": "Sin Alcohol",
+            "nombre": "Pepsi",
+            "precio": "250",
+            "descripcion": "",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre": "SevenUp",
+            "precio": "250",
+            "descripcion": "",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre":"Mirinda",
+            "precio": "250",
+            "descripcion": "",
+            "img": "",
+            "stock":"false"
+        },
+        {
+            "Titulo": "",
+            "nombre":"Paso de los toros",
+            "precio": "250",
+            "descripcion": "",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre":"Tónica",
+            "precio": "250",
+            "descripcion": "",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre":"Awafruit",
+            "precio": "250",
+            "descripcion": "",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre":"Limonada",
+            "precio": "300",
+            "descripcion": "",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "Tragos",
+            "nombre": "Gin Tonic",
+            "precio": "400",
+            "descripcion": "Medida de gin Heraclito y tonica",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre": "Negroni",
+            "precio": "400",
+            "descripcion": "Gin, Campari, Vermouth Rosso y rodaja de naranja",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre":"Dry Martini",
+            "precio": "400",
+            "descripcion": "Gin, vermouth seco, aceituna",
+            "img": "",
+            "stock":"false"
+        },
+        {
+            "Titulo": "",
+            "nombre":"Capirinha",
+            "precio": "400",
+            "descripcion": "Cashaça, limón y azucar",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "Vinos",
+            "nombre": "Cordero con piel de Lobo",
+            "precio": "1100",
+            "descripcion": "Malbec",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre": "Trumpeter",
+            "precio": "900",
+            "descripcion": "Malbec",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre":"Santa Julia",
+            "precio": "900",
+            "descripcion": "Chardonnay",
+            "img": "",
+            "stock":"true"
+        },
+        {
+            "Titulo": "",
+            "nombre":"Ruttini",
+            "precio": "1300",
+            "descripcion": "",
+            "img": "",
+            "stock":"false"
+        }
+
+    ],
+    "Food": [
+        {
+            "Titulo":"ENTRADAS",
+            "nombre": "Papas",
+            "precio": "500",
+            "descripcion": "",
+            "img": "/Prueba1/images/papas4.jpg",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre": "Papas Cheddar y bacon",
+            "precio": "700",
+            "descripcion": "Papas con cheddar y bacon",
+            "img": "",
+            "stock": "false"
+    
+        },
+        {
+            "Titulo":"",
+            "nombre":"Bastones de muzarella",
+            "precio": "700",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"PIZZAS",
+            "nombre":"Pizza de Mozzarella",
+            "precio": "900",
+            "descripcion": "Queso mozzarella, salsa de tomate y lluvia de orégano",
+            "img": "/Prueba1/images/ruculapizza.jpg",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Pizza Especial",
+            "precio": "1100",
+            "descripcion": "Queso mozzarella, salsa de tomate, jamon cocido, morrones en conserva y lluvia de orégano",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Pizza Napolitana",
+            "precio": "1100",
+            "descripcion": "Queso mozzarella, salsa de tomate, rodajas de tomate natural, ajo picado y lluvia de especias",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Pizza Calabresa",
+            "precio": "1100",
+            "descripcion": "Queso mozzarella, salsa de tomate y calabresa",
+            "img": "",
+            "stock": "false"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Pizza 4 quesos",
+            "precio": "1100",
+            "descripcion": "Queso mozzarella, roquefort, gruyere, parmesano y salsa de tomate",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Pizza Margarita",
+            "precio": "1100",
+            "descripcion": "Queso mozzarella, tomate cherry, lluvia de albahaca y salsa de tomate",
+            "img": "",
+            "stock": "true"
+        }
+    ]
+}
