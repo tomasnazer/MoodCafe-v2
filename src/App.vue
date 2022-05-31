@@ -1,4 +1,5 @@
 <template>
+<div class="styles">
   <Header />
   <!-- <nav>    
     <router-link to="/">Home</router-link> |
@@ -6,6 +7,7 @@
   </nav> -->
   <router-view/>
   <Footer />
+</div>
   
 </template>
 
@@ -25,6 +27,11 @@ export default {
 </script>
 
 <style scoped>
+.style {
+    font-size: 62.5%;
+    background-color: rgb(199, 191, 172);
+    font-family: 'Montserrat', sans-serif;
+}
 .box {
     margin-top: 0px;
     display: flex;
