@@ -16,10 +16,11 @@
                     <picture><img src="../assets/images/wsp.png" alt="wsp-icon"></picture>
                     </a>
                 </div>
-                <div class="direction-container">
+                
+            </div> 
+            <div class="direction-container">
                     <p class="direction">Encontramos en Guemes 154 Resistencia Chaco</p>
                 </div>
-            </div> 
         </footer>
 </template>
 
@@ -44,6 +45,7 @@ export default {
     display: flex;
     justify-content: space-around;
     margin-top: 5px;
+    width: 100vw;
 }
 
 .ig img{
@@ -67,5 +69,7 @@ export default {
     color: white;
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 </style>

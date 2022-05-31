@@ -24,16 +24,30 @@ export default {
 </script>
 
 <style scoped>
-*{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-html{
-    font-size: 62.5%;
-    background-color: rgb(199, 191, 172);
+.box {
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
 }
 
+.coffe-menu{
+    width: 220px;
+    height: 200px;
+    border-radius: 70%;
+    display: flex;
+}
+
+.lunch-menu, .drinks-menu {
+    width: 220px;
+    height: 200px;
+    border-radius: 70%;
+    display: flex;
+    margin-top: 3rem;
+}
 
 
 </style>
