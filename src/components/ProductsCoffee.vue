@@ -1,8 +1,11 @@
 <template>
     
     <div class="Product-box" :key="product.id" v-for="product in products">
-        <h1>{{ product.nombre }}</h1>
-        
+        <h1 v-show="product.Titulo != ''">{{ product.Titulo }}</h1>
+        <img v-show="product.img != ''" src="{{product.img}}" alt="{{product.nombre}}">
+        <p class="product">{{product.nombre}} ${{product.precio}}</p>
+        <p class="description">{{product.descripcion}}</p>
+        <p class="stock" v-show="product.stock != 'true'">Sin stock!</p>
     </div>
 </template>
 
@@ -41,7 +44,7 @@ h1 {
 .product {
     font-weight: bold;
     font-size: 1.6rem;
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
     margin-bottom: 5px;
 }
 
@@ -53,6 +56,13 @@ h1 {
     font-weight: bold;
     margin-bottom: 5px;
     
+}
+
+.stock {
+    color: white;
+    background: red;
+    font-size: 1.3rem;
+    font-weight: bold;
 }
 
 </style>

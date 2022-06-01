@@ -6,7 +6,7 @@
             "nombre": "Café Doble",
             "precio": "250",
             "descripcion": "Doble medida de espresso",
-            "img": "/Prueba1/images/Café con Leche.png",
+            "img": "../src/assets/images/Café con leche.png",
             "stock": "true"
         },
         {
@@ -42,7 +42,7 @@
             "nombre": "Capuccino Clásico",
             "precio": "300",
             "descripcion": "Doble medida de espresso",
-            "img": "/Prueba1/images/latte1.jpg",
+            "img": "../src/assets/images/latte1.jpg",
             "stock": "true"
         },
         {
@@ -83,7 +83,7 @@
             "nombre": "Ice Lattes",
             "precio": "350",
             "descripcion": "Bebida fria con hielo, base de espresso, leche y caramelo",
-            "img": "/Prueba1/images/icecoffe.jpg",
+            "img": "../src/assets/images/icecoffe.jpg",
             "stock": "true"
         },
         {
@@ -155,7 +155,7 @@
             "nombre": "MooD I",
             "precio": "300",
             "descripcion": "Café con leche + 2 medialunas",
-            "img": "../images/moodI.jpg",
+            "img": "../src/assets/images/moodI.jpg",
             "stock": "true"
         },
         {
@@ -171,7 +171,7 @@
             "nombre": "Mood III",
             "precio": "300",
             "descripcion": "Café con leche + Tostado de Jamon y Queso",
-            "img": "../images/moodiii.jpg",
+            "img": "../src/assets/images/moodiii.jpg",
             "stock": "false"
         },
         {
@@ -370,7 +370,7 @@
             "nombre": "Papas",
             "precio": "500",
             "descripcion": "",
-            "img": "/Prueba1/images/papas4.jpg",
+            "img": "../src/assets/images/papas4.jpg",
             "stock": "true"
         },
         {
@@ -395,7 +395,7 @@
             "nombre":"Pizza de Mozzarella",
             "precio": "900",
             "descripcion": "Queso mozzarella, salsa de tomate y lluvia de orégano",
-            "img": "/Prueba1/images/ruculapizza.jpg",
+            "img": "../src/assets/images/ruculapizza.jpg",
             "stock": "true"
         },
         {
