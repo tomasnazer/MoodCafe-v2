@@ -1,6 +1,7 @@
 {
-    "Coffe": [
+    "products": [
         {
+            "id":1,
             "Titulo":"CAFETERIA",
             "nombre": "Café Doble",
             "precio": "250",
@@ -9,6 +10,7 @@
             "stock": "true"
         },
         {
+            "id":2,
             "Titulo":"",
             "nombre": "Café Americano",
             "precio": "220",
@@ -17,6 +19,7 @@
             "stock": "false"
         },
         {
+            "id":3,
             "Titulo":"",
             "nombre":"Cafe espresso",
             "precio": "200",
@@ -25,6 +28,7 @@
             "stock": "false"
         },
         {
+            "id":4,
             "Titulo":"",
             "nombre":"Macciato",
             "precio": "",
@@ -33,6 +37,7 @@
             "stock": "true"
         },
         {
+            "id":5,
             "Titulo":"CAPUCCINOS Y LATTES",
             "nombre": "Capuccino Clásico",
             "precio": "300",
@@ -41,6 +46,7 @@
             "stock": "true"
         },
         {
+            "id":6,
             "Titulo":"",
             "nombre": "Capuccino Italiano",
             "precio": "300",
