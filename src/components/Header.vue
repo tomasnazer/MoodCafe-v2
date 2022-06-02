@@ -82,7 +82,7 @@ ul {
     list-style: none;
     text-align: center;
     background-color: rgb(155, 117, 60);
-    margin-top: -130%;
+    margin-top: -140%;
     margin-bottom: 90px;
     transition: all .5s;
 }

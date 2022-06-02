@@ -2,7 +2,7 @@
     
     <div class="Product-box" :key="product.id" v-for="product in products">
         <h1 v-show="product.Titulo != ''">{{ product.Titulo }}</h1>
-        <img v-show="product.img != ''" src="{{product.img}}" alt="{{product.nombre}}">
+        <img v-show="product.img != ''" :src="require('../assets/images/Café con Leche.png')" alt="{{product.nombre}}" class="img-box">
         <p class="product">{{product.nombre}} ${{product.precio}}</p>
         <p class="description">{{product.descripcion}}</p>
         <p class="stock" v-show="product.stock != 'true'">Sin stock!</p>
@@ -11,8 +11,9 @@
 
 
 <script>
+
 export default {
-    name: 'Products',
+    name: 'Foodproducts',
     props: {
        products: Array 
     },
@@ -65,5 +66,6 @@ h1 {
     font-size: 1.3rem;
     font-weight: bold;
 }
+
 
 </style>
