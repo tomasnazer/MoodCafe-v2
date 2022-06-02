@@ -1,13 +1,13 @@
 <template>
 <section class="box">
     <picture class="coffe-img-container">
-       <a href=""><img src="../assets/images/Menú-CAFETERIA.png" alt="coffe-picture" class="coffe-menu"></a>
+       <router-link to="/coffemenu"><img src="../assets/images/Menú-CAFETERIA.png" alt="coffe-picture" class="coffe-menu"></router-link>
     </picture>
     <picture class="container-lunch-menu">
-       <a href=""><img src="../assets/images/Menú-CENA.png" alt="lunch-menu" class="lunch-menu"></a>
+       <router-link to="/foodmenu"><img src="../assets/images/Menú-CENA.png" alt="lunch-menu" class="lunch-menu"></router-link>
     </picture>
     <picture>
-      <a href=""><img src="../assets/images/Menú-TRAGOS.png" alt="drinks-menu" class="drinks-menu"></a>
+      <router-link to="/drinksmenu"><img src="../assets/images/Menú-TRAGOS.png" alt="drinks-menu" class="drinks-menu"></router-link>
     </picture>
   </section>
 
