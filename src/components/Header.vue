@@ -14,8 +14,8 @@
         <ul id="smenu" class="submenu" :class="{'show': isMenuOpen == true}">
             <li><a href="" class="menu_link">Contacto</a></li>
             <li><router-link to="/coffemenu" class="menu_link">Menú Cafetería</router-link></li>
-            <li><a href="" class="menu_link">Menú Comida</a></li>
-            <li><a href="" class="menu_link">Menú Bebidas</a></li>
+            <li><router-link to="/foodmenu" class="menu_link">Menú Comida</router-link></li>
+            <li><router-link to="/drinksmenu" class="menu_link">Menú Bebidas</router-link></li>
             <li><router-link to="/about" class="menu_link">Sobre Nosotros</router-link></li>
         </ul>
     </nav>
