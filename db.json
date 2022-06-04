@@ -370,7 +370,7 @@
             "nombre": "Papas",
             "precio": "500",
             "descripcion": "",
-            "img": "../src/assets/images/papas4.jpg",
+            "img": "papas4.jpg",
             "stock": "true"
         },
         {
@@ -395,7 +395,7 @@
             "nombre":"Pizza de Mozzarella",
             "precio": "900",
             "descripcion": "Queso mozzarella, salsa de tomate y lluvia de orégano",
-            "img": "../src/assets/images/ruculapizza.jpg",
+            "img": "ruculapizza.jpg",
             "stock": "true"
         },
         {

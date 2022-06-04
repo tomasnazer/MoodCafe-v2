@@ -13,11 +13,10 @@
 <script>
 
 export default {
-    name: 'Foodproducts',
+    name: 'Drinksproducts',
     props: {
        products: Array 
     },
-
 }
 </script>
 
@@ -68,5 +67,5 @@ h1 {
     font-weight: bold;
 }
 
-/*  */
+
 </style>
