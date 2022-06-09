@@ -6,7 +6,7 @@
             "nombre": "Café Doble",
             "precio": "250",
             "descripcion": "Doble medida de espresso",
-            "img": "../src/assets/images/Café con leche.png",
+            "img": "require('../assets/images/Cafeconleche.png')",
             "stock": "true"
         },
         {
@@ -42,7 +42,7 @@
             "nombre": "Capuccino Clásico",
             "precio": "300",
             "descripcion": "Doble medida de espresso",
-            "img": "../src/assets/images/latte1.jpg",
+            "img": "../assets/images/latte1.jpg",
             "stock": "true"
         },
         {
@@ -83,7 +83,7 @@
             "nombre": "Ice Lattes",
             "precio": "350",
             "descripcion": "Bebida fria con hielo, base de espresso, leche y caramelo",
-            "img": "../src/assets/images/icecoffe.jpg",
+            "img": "../assets/images/icecoffe.jpg",
             "stock": "true"
         },
         {
@@ -155,7 +155,7 @@
             "nombre": "MooD I",
             "precio": "300",
             "descripcion": "Café con leche + 2 medialunas",
-            "img": "../src/assets/images/moodI.jpg",
+            "img": "../assets/images/moodI.jpg",
             "stock": "true"
         },
         {
@@ -171,7 +171,7 @@
             "nombre": "Mood III",
             "precio": "300",
             "descripcion": "Café con leche + Tostado de Jamon y Queso",
-            "img": "../src/assets/images/moodiii.jpg",
+            "img": "../assets/images/moodiii.jpg",
             "stock": "false"
         },
         {

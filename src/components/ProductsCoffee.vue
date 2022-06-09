@@ -2,10 +2,11 @@
     
     <div class="Product-box" :key="product.id" v-for="product in products">
         <h1 v-show="product.Titulo != ''">{{ product.Titulo }}</h1>
-        <img v-show="product.img != ''" src="{{product.img}}" alt="{{product.nombre}}">
+        <img v-show="product.img != ''" :src="product.img" :alt="product.nombre">
         <p class="product">{{product.nombre}} ${{product.precio}}</p>
         <p class="description">{{product.descripcion}}</p>
         <p class="stock" v-show="product.stock != 'true'">Sin stock!</p>
+        
     </div>
 </template>
 

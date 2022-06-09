@@ -12,7 +12,7 @@
             </li>
         </ul>
         <ul id="smenu" class="submenu" :class="{'show': isMenuOpen == true}">
-            <li><a href="" class="menu_link">Contacto</a></li>
+            <li><router-link to="/contact" class="menu_link">Contacto</router-link></li>
             <li><router-link to="/coffemenu" class="menu_link">Menú Cafetería</router-link></li>
             <li><router-link to="/foodmenu" class="menu_link">Menú Comida</router-link></li>
             <li><router-link to="/drinksmenu" class="menu_link">Menú Bebidas</router-link></li>

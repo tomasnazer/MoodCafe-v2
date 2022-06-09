@@ -4,17 +4,65 @@
             <img src="../assets/images/logobiig.png" alt="mood-logo">
         </picture>
         <div class="form-container">
-            <form id="contact-form" action="">
-                <input type="text" name="from_name" placeholder="Ingrese su nombre..." required>
-                <input type="email" name="from_email" placeholder="Ingrese su mail...">
-                <textarea class="text-input" name="message" placeholder="..." required cols="30" rows="10"></textarea>
-                <input class="button-input" type="submit" value="Enviar">
-            </form>
+           <form>
+          <input 
+            type="text" 
+            v-model="name"
+            name="name"
+            placeholder="Your Name"
+          >
+          <input 
+            type="email" 
+            v-model="email"
+            name="email"
+            placeholder="Your Email"
+            >
+          <textarea 
+            name="message"
+            v-model="message"
+            cols="30" rows="5"
+            placeholder="Message">
+          </textarea>
+          
+          <input class="button-input" type="submit" value="Send">
+        </form>
         </div>
 </div>
 </template>
 
+<script>
+export default {
+  name: 'ContactUs',
+  data() {
+    return {
+      name: '',
+      email: '',
+      message: ''
+    }
+  },
+  methods: {
+    sendEmail(e) {
+      try {
+          event.preventDefault()
+          console-log("aa")
+        emailjs.sendForm('service_i7bkyck', 'template_7s1y1m4', e.target,
+        'oviHKd3tV-8OF5ZBv', {
+          name: this.name,
+          email: this.email,
+          message: this.message
+        })
 
+      } catch(error) {
+          console.log({error})
+      }
+      // Reset form field
+      this.name = ''
+      this.email = ''
+      this.message = ''
+    },
+  }
+}
+</script>
 
 <style scoped>
 .container{
@@ -55,5 +103,6 @@ textarea{
     color: black;
     text-align: center;
     align-items: center;
+    margin-bottom: 30px;
 }
 </style>
