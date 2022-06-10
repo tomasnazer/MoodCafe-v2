@@ -9,19 +9,20 @@
               type="text" 
               v-model="name"
               name="name"
-              placeholder="Your Name"
+              placeholder="Nombre"
             >
             <input 
               type="email" 
               v-model="email"
               name="email"
-              placeholder="Your Email"
+              placeholder="Mail"
               >
             <textarea 
-              name="message"
+              name="Mensaje"
               v-model="message"
               cols="30" rows="5"
-              placeholder="Message">
+              placeholder="Message"
+              required>
             </textarea>
             
             <input class="button-input" type="submit" value="Send">
@@ -105,4 +106,5 @@ textarea{
     align-items: center;
     margin-bottom: 30px;
 }
+
 </style>
