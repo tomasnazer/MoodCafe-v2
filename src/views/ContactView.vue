@@ -4,33 +4,35 @@
             <img src="../assets/images/logobiig.png" alt="mood-logo">
         </picture>
         <div class="form-container">
-           <form>
-          <input 
-            type="text" 
-            v-model="name"
-            name="name"
-            placeholder="Your Name"
-          >
-          <input 
-            type="email" 
-            v-model="email"
-            name="email"
-            placeholder="Your Email"
+           <form @submit.prevent="sendEmail">
+            <input 
+              type="text" 
+              v-model="name"
+              name="name"
+              placeholder="Your Name"
             >
-          <textarea 
-            name="message"
-            v-model="message"
-            cols="30" rows="5"
-            placeholder="Message">
-          </textarea>
-          
-          <input class="button-input" type="submit" value="Send">
+            <input 
+              type="email" 
+              v-model="email"
+              name="email"
+              placeholder="Your Email"
+              >
+            <textarea 
+              name="message"
+              v-model="message"
+              cols="30" rows="5"
+              placeholder="Message">
+            </textarea>
+            
+            <input class="button-input" type="submit" value="Send">
         </form>
         </div>
 </div>
 </template>
 
 <script>
+import emailjs from 'emailjs-com';
+
 export default {
   name: 'ContactUs',
   data() {
@@ -43,8 +45,6 @@ export default {
   methods: {
     sendEmail(e) {
       try {
-          event.preventDefault()
-          console-log("aa")
         emailjs.sendForm('service_i7bkyck', 'template_7s1y1m4', e.target,
         'oviHKd3tV-8OF5ZBv', {
           name: this.name,
