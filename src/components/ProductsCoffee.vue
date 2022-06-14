@@ -46,7 +46,6 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 1.6rem;
-    /* background-color: rgb(255, 255, 255); */
     margin-bottom: 5px;
 }
 

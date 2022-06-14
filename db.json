@@ -231,7 +231,7 @@
             "nombre": "Desayuno Americano",
             "precio": "700",
             "descripcion": "Café con leche + revuelto de huevo y bacon",
-            "img": "",
+            "img": "desayunoamericano.jpg",
             "stock": "true"
         },
         {
@@ -258,7 +258,7 @@
             "nombre": "Completo",
             "precio": "1400",
             "descripcion": "2 café con leche, 2 medialunas,2 jugos chicos,2 mini tostados , chipa y torta",
-            "img": "",
+            "img": "completo.jpg",
             "stock": "true"
         }
         
