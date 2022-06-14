@@ -260,8 +260,349 @@
             "descripcion": "2 café con leche, 2 medialunas,2 jugos chicos,2 mini tostados , chipa y torta",
             "img": "completo.jpg",
             "stock": "true"
+        },
+        {
+            "id":29,
+            "Titulo":"Licuados y Jugos",
+            "nombre": "Jugo de Naranja",
+            "precio": "",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":41,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "350",
+            "descripcion": "Jugo de Naranja Grande",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":30,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "250",
+            "descripcion": "Jugo de Naranja Mediano",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":31,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "150",
+            "descripcion": "Jugo de Naranja Chico",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":32,
+            "Titulo":"",
+            "nombre": "Licuado de fruta c/ leche o agua",
+            "precio": "390",
+            "descripcion": "Ananá. banana, frutilla, durazno, multifruta",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":33,
+            "Titulo":"",
+            "nombre": "Limonada",
+            "precio": "350",
+            "descripcion": "con menta y soda",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":34,
+            "Titulo":"",
+            "nombre": "Jarra de limonada",
+            "precio": "500",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":35,
+            "Titulo":"Waffles",
+            "nombre": "Oreo",
+            "precio": "500",
+            "descripcion": "Helado de americana, oreos y salsa de chocolate",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":36,
+            "Titulo":"",
+            "nombre": "Nutella",
+            "precio": "600",
+            "descripcion": "Helado de americana, helado de dulce leche, nutella y granola",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":37,
+            "Titulo":"",
+            "nombre": "Frutas de Estación",
+            "precio": "600",
+            "descripcion": "Frutas de estación y miel",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":38,
+            "Titulo":"",
+            "nombre": "Selva Negra",
+            "precio": "600",
+            "descripcion": "waffle de chocolate, dulce de leche, frutillas y crema chantilly",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":39,
+            "Titulo":"Yogures",
+            "nombre": "",
+            "precio": "500",
+            "descripcion": "con frutas naturales y granola",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":40,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "600",
+            "descripcion": "con arándanos, miel y granola",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":40,
+            "Titulo":"",
+            "nombre": "Bowl de granola",
+            "precio": "600",
+            "descripcion": "Yogur griego, mix de granola, frutas de estación y miel",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":42,
+            "Titulo":"Batidos",
+            "nombre": "Arándanos",
+            "precio": "450",
+            "descripcion": "Leche de almendras, banana, azucar y jengibre",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":43,
+            "Titulo":"",
+            "nombre": "Coco",
+            "precio": "450",
+            "descripcion": "Leche de coco y almendra, avnea, banana, azucar y jengibre",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":44,
+            "Titulo":"",
+            "nombre": "Armá tu Batido",
+            "precio": "450",
+            "descripcion": "Seleccioná 2 frutas: Banana, frutilla, frutos rojos, maracuyá, ananá, durazno, kiwi, naranja",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":45,
+            "Titulo":"Milkshakes",
+            "nombre": "",
+            "precio": "450",
+            "descripcion": "Oreo",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":46,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "450",
+            "descripcion": "Dulce de leche",
+            "img": "",
+            "stock": "true"
+        },    
+        {
+            "id":47,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "450",
+            "descripcion": "Chocolate",
+            "img": "",
+            "stock": "true"
+        },      
+        {
+            "id":48,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "500",
+            "descripcion": "Nutella",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":49,
+            "Titulo":"Frappes",
+            "nombre": "Frozzen Latte",
+            "precio": "500",
+            "descripcion": "Hielo, café, leche, crema, caramelo y vainilla",
+            "img": "",
+            "stock": "true"
+        },      
+        {
+            "id":50,
+            "Titulo":"",
+            "nombre": "Frutos Rojos",
+            "precio": "500",
+            "descripcion": "Hielo, café, leche, crema y salsa de frutos rojos",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":51,
+            "Titulo":"",
+            "nombre": "Dulce de leche",
+            "precio": "500",
+            "descripcion": "Hielo, café, leche, crema y dulce de leche",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":52,
+            "Titulo":"",
+            "nombre": "Mocca",
+            "precio": "500",
+            "descripcion": "Hielo, café, leche, crema y cacao",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":53,
+            "Titulo":"",
+            "nombre": "Mocca Blanco",
+            "precio": "500",
+            "descripcion": "Hielo, café, leche, crema y chocolate blanco",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":54,
+            "Titulo":"Lo de siempre",
+            "nombre": "",
+            "precio": "90",
+            "descripcion": "Medialunas",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":55,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "200",
+            "descripcion": "Chipa 100gr",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":55,
+            "Titulo":"",
+            "nombre": "Tostadas",
+            "precio": "200",
+            "descripcion": "con manteca, queso crema, mermelada o dulce de leche",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":56,
+            "Titulo":"",
+            "nombre": "Avocado Toast",
+            "precio": "400",
+            "descripcion": "Palta, huevo y queso crema",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":57,
+            "Titulo":"",
+            "nombre": "Fresh Toast",
+            "precio": "400",
+            "descripcion": "Con frutas de estación y miel",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":58,
+            "Titulo":"Croissants",
+            "nombre": "Jamon y queso",
+            "precio": "200",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":59,
+            "Titulo":"",
+            "nombre": "Crudo",
+            "precio": "250",
+            "descripcion": "con queso y jamón crudo",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":60,
+            "Titulo":"",
+            "nombre": "Nutella I",
+            "precio": "250",
+            "descripcion": "Relleno de nutella",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":61,
+            "Titulo":"",
+            "nombre": "Nutella II",
+            "precio": "280",
+            "descripcion": "Relleno de nutella y banana",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":61,
+            "Titulo":"",
+            "nombre": "Gourmet",
+            "precio": "350",
+            "descripcion": "Con queso crema y jamón. Gratinado con queso y con un huevo a la plancha",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":62,
+            "Titulo":"",
+            "nombre": "Americano",
+            "precio": "350",
+            "descripcion": "Con revuelto de huevo y bacon",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":62,
+            "Titulo":"",
+            "nombre": "Primavera",
+            "precio": "350",
+            "descripcion": "Con frutas de estación y crema chantilly",
+            "img": "",
+            "stock": "true"
         }
-        
     ],
 
     "Drinks": [
