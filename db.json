@@ -6,7 +6,7 @@
             "nombre": "Café Doble",
             "precio": "250",
             "descripcion": "Doble medida de espresso",
-            "img": "require('../assets/images/Cafeconleche.png')",
+            "img": "Cafeconleche.png",
             "stock": "true"
         },
         {
@@ -42,7 +42,7 @@
             "nombre": "Capuccino Clásico",
             "precio": "300",
             "descripcion": "Doble medida de espresso",
-            "img": "../assets/images/latte1.jpg",
+            "img": "latte1.jpg",
             "stock": "true"
         },
         {
@@ -55,6 +55,7 @@
             "stock": "true"
         },
         {
+            "id":7,
             "Titulo":"",
             "nombre": "Capuccino de Dulce de leche",
             "precio": "300",
@@ -63,6 +64,7 @@
             "stock": "false"
         },
         {
+            "id":8,
             "Titulo":"",
             "nombre": "Capuccino de leche condensada",
             "precio": "300",
@@ -71,6 +73,7 @@
             "stock": "true"
         },
         {
+            "id":9,
             "Titulo":"",
             "nombre": "Nutelatte",
             "precio": "350",
@@ -79,14 +82,16 @@
             "stock": "true"
         },
         {
+            "id":10,
             "Titulo":"FRIOS",
             "nombre": "Ice Lattes",
             "precio": "350",
             "descripcion": "Bebida fria con hielo, base de espresso, leche y caramelo",
-            "img": "../assets/images/icecoffe.jpg",
+            "img": "icecoffe.jpg",
             "stock": "true"
         },
         {
+            "id":11,
             "Titulo":"",
             "nombre": "Moccacino Frío",
             "precio": "350",
@@ -95,6 +100,7 @@
             "stock": "true"
         },
         {
+            "id":12,
             "Titulo":"",
             "nombre": "Afogatto",
             "precio": "500",
@@ -103,6 +109,7 @@
             "stock": "false"
         },
         {
+            "id":13,
             "Titulo":"",
             "nombre": "Ice Americano",
             "precio": "350",
@@ -111,6 +118,7 @@
             "stock": "true"
         },
         {
+            "id":14,
             "Titulo":"",
             "nombre": "Chocolatada",
             "precio": "300",
@@ -119,6 +127,7 @@
             "stock": "true"
         },
         {
+            "id":15,
             "Titulo":"INFUSIONES",
             "nombre": "Té con leche o limón",
             "precio": "150",
@@ -127,6 +136,7 @@
             "stock": "true"
         },
         {
+            "id":15,
             "Titulo":"",
             "nombre": "Té con hierbas",
             "precio": "150",
@@ -135,6 +145,7 @@
             "stock": "true"
         },
         {
+            "id":16,
             "Titulo":"",
             "nombre": "Mate cocido",
             "precio": "200",
@@ -143,6 +154,7 @@
             "stock": "true"
         },
         {
+            "id":17,
             "Titulo":"",
             "nombre": "Mate cocido con leche",
             "precio": "220",
@@ -151,6 +163,7 @@
             "stock": "true"
         },
         {
+            "id":18,
             "Titulo":"COMBOS",
             "nombre": "MooD I",
             "precio": "300",
@@ -159,6 +172,7 @@
             "stock": "true"
         },
         {
+            "id":19,
             "Titulo":"",
             "nombre": "MooD II",
             "precio": "300",
@@ -167,6 +181,7 @@
             "stock": "true"
         },
         {
+            "id":20,
             "Titulo":"",
             "nombre": "Mood III",
             "precio": "300",
@@ -175,6 +190,7 @@
             "stock": "false"
         },
         {
+            "id":21,
             "Titulo":"",
             "nombre": "MooD IV",
             "precio": "300",
@@ -183,6 +199,7 @@
             "stock": "true"
         },
         {
+            "id":22,
             "Titulo":"",
             "nombre": "Balcarce I",
             "precio": "300",
@@ -191,6 +208,7 @@
             "stock": "true"
         },
         {
+            "id":23,
             "Titulo":"",
             "nombre": "Balcarce II",
             "precio": "300",
@@ -199,6 +217,7 @@
             "stock": "true"
         },
         {
+            "id":24,
             "Titulo":"",
             "nombre": "Natural",
             "precio": "700",
@@ -207,6 +226,7 @@
             "stock": "true"
         },
         {
+            "id":25,
             "Titulo":"",
             "nombre": "Desayuno Americano",
             "precio": "700",
@@ -215,6 +235,7 @@
             "stock": "true"
         },
         {
+            "id":26,
             "Titulo":"",
             "nombre": "Saludable",
             "precio": "700",
@@ -223,6 +244,7 @@
             "stock": "true"
         },
         {
+            "id":27,
             "Titulo":"",
             "nombre": "Clásico",
             "precio": "1100",
@@ -231,6 +253,7 @@
             "stock": "true"
         },
         {
+            "id":28,
             "Titulo":"",
             "nombre": "Completo",
             "precio": "1400",
