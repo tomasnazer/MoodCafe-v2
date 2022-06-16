@@ -595,11 +595,56 @@
             "stock": "true"
         },
         {
-            "id":62,
+            "id":63,
             "Titulo":"",
             "nombre": "Primavera",
             "precio": "350",
             "descripcion": "Con frutas de estación y crema chantilly",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":64,
+            "Titulo":"Sandwiches",
+            "nombre": "Jamon y queso",
+            "precio": "350",
+            "descripcion": "Pedilo con pan árabe",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":65,
+            "Titulo":"",
+            "nombre": "Crudo y queso",
+            "precio": "600",
+            "descripcion": "Pedilo con pan árabe",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":66,
+            "Titulo":"",
+            "nombre": "Tostado Jamon y Queso",
+            "precio": "500",
+            "descripcion": "Pedilo con pan árabe",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":67,
+            "Titulo":"",
+            "nombre": "Triple de verduras",
+            "precio": "800",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":68,
+            "Titulo":"",
+            "nombre": "Tostado Veggie",
+            "precio": "500",
+            "descripcion": "queso y tomate",
             "img": "",
             "stock": "true"
         }
