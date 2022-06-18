@@ -647,6 +647,105 @@
             "descripcion": "queso y tomate",
             "img": "",
             "stock": "true"
+        },
+        {
+            "id":69,
+            "Titulo":"Tortas",
+            "nombre": "",
+            "precio": "500",
+            "descripcion": "Porción postre balcarce",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":70,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "500",
+            "descripcion": "Porción lemon pie",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":71,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "500",
+            "descripcion": "Porción marquise de chocolate",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":72,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "500",
+            "descripcion": "Porción de cheesecake",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":73,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "500",
+            "descripcion": "Porción de chocotorta",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":74,
+            "Titulo":"Balcarce",
+            "nombre": "",
+            "precio": "2300",
+            "descripcion": "Postre Helado 700gr",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":75,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "140",
+            "descripcion": "Conitos",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":76,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "140",
+            "descripcion": "Alfajores",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":77,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "140",
+            "descripcion": "Galletitas de Limón",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":78,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "140",
+            "descripcion": "Galletitas de Limón con chocolate",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":79,
+            "Titulo":"",
+            "nombre": "",
+            "precio": "140",
+            "descripcion": "Budincitos",
+            "img": "",
+            "stock": "true"
         }
     ],
 
