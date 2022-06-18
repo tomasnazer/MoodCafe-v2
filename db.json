@@ -327,10 +327,10 @@
         {
             "id":35,
             "Titulo":"Waffles",
-            "nombre": "Oreo",
+            "nombre": "Frutas de Estación",
             "precio": "500",
-            "descripcion": "Helado de americana, oreos y salsa de chocolate",
-            "img": "",
+            "descripcion": "Frutas de estación y miel",
+            "img": "wafflefrutas.jpg",
             "stock": "true"
         },
         {
@@ -345,9 +345,9 @@
         {
             "id":37,
             "Titulo":"",
-            "nombre": "Frutas de Estación",
+            "nombre": "Oreo",
             "precio": "600",
-            "descripcion": "Frutas de estación y miel",
+            "descripcion": "Helado de americana, oreos y salsa de chocolate",
             "img": "",
             "stock": "true"
         },
@@ -361,8 +361,17 @@
             "stock": "true"
         },
         {
-            "id":39,
+            "id":80,
             "Titulo":"Yogures",
+            "nombre": "Bowl de granola",
+            "precio": "600",
+            "descripcion": "Yogur griego, mix de granola, frutas de estación y miel",
+            "img": "bowlgranola.jpg",
+            "stock": "true"
+        },
+        {
+            "id":39,
+            "Titulo":"",
             "nombre": "",
             "precio": "500",
             "descripcion": "con frutas naturales y granola",
@@ -375,15 +384,6 @@
             "nombre": "",
             "precio": "600",
             "descripcion": "con arándanos, miel y granola",
-            "img": "",
-            "stock": "true"
-        },
-        {
-            "id":40,
-            "Titulo":"",
-            "nombre": "Bowl de granola",
-            "precio": "600",
-            "descripcion": "Yogur griego, mix de granola, frutas de estación y miel",
             "img": "",
             "stock": "true"
         },
@@ -420,7 +420,7 @@
             "nombre": "",
             "precio": "450",
             "descripcion": "Oreo",
-            "img": "",
+            "img": "milkshake.jpg",
             "stock": "true"
         },
         {
@@ -453,10 +453,10 @@
         {
             "id":49,
             "Titulo":"Frappes",
-            "nombre": "Frozzen Latte",
+            "nombre": "Frappe Mocca",
             "precio": "500",
-            "descripcion": "Hielo, café, leche, crema, caramelo y vainilla",
-            "img": "",
+            "descripcion": "Hielo, café, leche, crema y cacao",
+            "img": "frappemocca.jpg",
             "stock": "true"
         },      
         {
@@ -480,9 +480,9 @@
         {
             "id":52,
             "Titulo":"",
-            "nombre": "Mocca",
-            "precio": "500",
-            "descripcion": "Hielo, café, leche, crema y cacao",
+            "nombre": "Frozzen Latte",
+            "precio": "500",           
+            "descripcion": "Hielo, café, leche, crema, caramelo y vainilla",
             "img": "",
             "stock": "true"
         },
@@ -564,7 +564,7 @@
             "nombre": "Nutella I",
             "precio": "250",
             "descripcion": "Relleno de nutella",
-            "img": "",
+            "img": "croissantnutella.jpg",
             "stock": "true"
         },
         {
@@ -582,7 +582,7 @@
             "nombre": "Gourmet",
             "precio": "350",
             "descripcion": "Con queso crema y jamón. Gratinado con queso y con un huevo a la plancha",
-            "img": "",
+            "img": "croissantgourmet.jpg",
             "stock": "true"
         },
         {
@@ -591,7 +591,7 @@
             "nombre": "Americano",
             "precio": "350",
             "descripcion": "Con revuelto de huevo y bacon",
-            "img": "",
+            "img": "croissantamericano.jpg",
             "stock": "true"
         },
         {
@@ -654,7 +654,7 @@
             "nombre": "",
             "precio": "500",
             "descripcion": "Porción postre balcarce",
-            "img": "",
+            "img": "tortas.jpg",
             "stock": "true"
         },
         {
