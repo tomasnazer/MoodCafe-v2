@@ -1148,7 +1148,7 @@
         },
         {
             "Titulo":"PIZZAS",
-            "nombre":"Pizza de Mozzarella",
+            "nombre":"Mozzarella",
             "precio": "900",
             "descripcion": "Queso mozzarella, salsa de tomate y lluvia de orégano",
             "img": "ruculapizza.jpg",
@@ -1156,7 +1156,7 @@
         },
         {
             "Titulo":"",
-            "nombre":"Pizza Especial",
+            "nombre":"Especial",
             "precio": "1100",
             "descripcion": "Queso mozzarella, salsa de tomate, jamon cocido, morrones en conserva y lluvia de orégano",
             "img": "",
@@ -1164,7 +1164,7 @@
         },
         {
             "Titulo":"",
-            "nombre":"Pizza Napolitana",
+            "nombre":"Napolitana",
             "precio": "1100",
             "descripcion": "Queso mozzarella, salsa de tomate, rodajas de tomate natural, ajo picado y lluvia de especias",
             "img": "",
@@ -1172,7 +1172,7 @@
         },
         {
             "Titulo":"",
-            "nombre":"Pizza Calabresa",
+            "nombre":"Calabresa",
             "precio": "1100",
             "descripcion": "Queso mozzarella, salsa de tomate y calabresa",
             "img": "",
@@ -1180,7 +1180,7 @@
         },
         {
             "Titulo":"",
-            "nombre":"Pizza 4 quesos",
+            "nombre":"4 quesos",
             "precio": "1100",
             "descripcion": "Queso mozzarella, roquefort, gruyere, parmesano y salsa de tomate",
             "img": "",
@@ -1188,9 +1188,401 @@
         },
         {
             "Titulo":"",
-            "nombre":"Pizza Margarita",
+            "nombre":"Margarita",
             "precio": "1100",
             "descripcion": "Queso mozzarella, tomate cherry, lluvia de albahaca y salsa de tomate",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Rúcula",
+            "precio": "1100",
+            "descripcion": "Queso mozzarella, rúcula, cebolla salteada, olivas negras y salsa de tomate",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Bacon Mood",
+            "precio": "1300",
+            "descripcion": "Queso mozzarella, queso cheddar, panceta salteada, lluvia de verdeo y salsa de tomate",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"Platos",
+            "nombre":"Omelette",
+            "precio": "1300",
+            "descripcion": "Jamon y queso o Capresse",
+            "img": "milanesa.jpg",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Tortilla de papas",
+            "precio": "1300",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Tortilla de papas a la española",
+            "precio": "1300",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Milanesa de Ternera",
+            "precio": "1300",
+            "descripcion": "con guarnición",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Milanesa napolitana",
+            "precio": "1300",
+            "descripcion": "con guarnición",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Milanesa MooD",
+            "precio": "1300",
+            "descripcion": "Cebolla, morrones, huevo frito, cebolla caramelizada. Con guarnición",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Risotto MooD",
+            "precio": "1300",
+            "descripcion": "con pollo o lomo",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Ojo de bife en manteca de hierbas",
+            "precio": "1300",
+            "descripcion": "con guarnición",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Cuarto de pollo deshuesado",
+            "precio": "1300",
+            "descripcion": "con guarnición",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Guarniciones",
+            "precio": "",
+            "descripcion": "Papas, batatas o mandiocas (fritas)",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "",
+            "descripcion": "Puré de papa, zapallo o mixto",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "",
+            "descripcion": "Ensalada tres gustos",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Plato del dia",
+            "precio": "",
+            "descripcion": "consultar con el mozo",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"Ensaladas",
+            "nombre":"Caesar",
+            "precio": "700",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Armá tu ensalada",
+            "precio": "600",
+            "descripcion": "Elegí 5: Lechuga, tomate, cherry, cebolla,choclo, zanahoria, huevo, pollo, palmito,rúcula, lentejas, aceitunas negras,crotones de pan",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"Picadas",
+            "nombre":"Criolla",
+            "precio": "1000",
+            "descripcion": "Queso roquefort, jamón crudo, queso barra, jamón cocido, queso holanda y pan",
+            "img": "picada.jpg",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Tabla MooD",
+            "precio": "2000",
+            "descripcion": "Milanesas de carne, papas fritas, bastones de muzzarella, alitas de pollo",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"Pescado",
+            "nombre":"Pescado del día",
+            "precio": "1400",
+            "descripcion": "salsa y guarnición a elección",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Salsas",
+            "precio": "",
+            "descripcion": "Manteca de hierbas y alcaparras",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "",
+            "descripcion": "Mostaza",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "",
+            "descripcion": "Queso azul",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Guarnición",
+            "precio": "",
+            "descripcion": "Papas fritas o puré a la oliva",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "",
+            "descripcion": "Arroz",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"Pastas",
+            "nombre":"Spaghettis",
+            "precio": "500",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Sorrentinos",
+            "precio": "600",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Canelones Verdura",
+            "precio": "600",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Raviolón MooD",
+            "precio": "",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Salsas",
+            "precio": "400",
+            "descripcion": "Principe de nápoles",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "400",
+            "descripcion": "Filetto",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "350",
+            "descripcion": "Bolognesa",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "400",
+            "descripcion": "Blanca",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "400",
+            "descripcion": "Rosa",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"",
+            "precio": "400",
+            "descripcion": "Parisienne",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"Burguers",
+            "nombre":"Sola con queso",
+            "precio": "700",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Classic Burguer",
+            "precio": "900",
+            "descripcion": "Pan casero, medallón. cheddar. lechuga. tomate.",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"V8 Burguer",
+            "precio": "1000",
+            "descripcion": "Pan casero, medallón, doble cheddar, panceta, cebolla morada.",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Impenetrable",
+            "precio": "1100",
+            "descripcion": "Pan casero, medallón, doble queso, doble jamón. morrones asados, alioli.",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Veggie",
+            "precio": "800",
+            "descripcion": "Pan casero, meddalón de vegetales, rúcula, tomate, dambo, cebolla morada y verdeo",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"Sandwiches",
+            "nombre":"Bondiola",
+            "precio": "1000",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Rústico de mila napolitano",
+            "precio": "900",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Club Pollo",
+            "precio": "800",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Triple de Verduras",
+            "precio": "800",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Psicodélico",
+            "precio": "",
+            "descripcion": "",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"Lomos",
+            "nombre":"Clásico",
+            "precio": "800",
+            "descripcion": "Pan casero, lomo, queso barra y verduras",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Especial",
+            "precio": "900",
+            "descripcion": "Pan casero, lomo, jamón, queso barra, huevo y verduras",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"Impenetrable",
+            "precio": "1100",
+            "descripcion": "Pan casero, doble lomo, muzzarella, jamón crudo, rúcula y tomate",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "Titulo":"",
+            "nombre":"MooD",
+            "precio": "1600",
+            "descripcion": "Pan casero, doble carne, panceta, cheddar, morrones asado, cebolla morada, jamon, queso barra, verduras.(para compartir)",
             "img": "",
             "stock": "true"
         }
