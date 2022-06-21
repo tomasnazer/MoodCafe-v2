@@ -755,7 +755,7 @@
             "nombre": "Pepsi",
             "precio": "250",
             "descripcion": "",
-            "img": "",
+            "img": "limonada.jpg",
             "stock":"true"
         },
         {
@@ -811,7 +811,7 @@
             "nombre":"Corona 710",
             "precio": "600",
             "descripcion": "",
-            "img": "",
+            "img": "corona.jpg",
             "stock":"true"
         },
         {
@@ -856,7 +856,7 @@
         },
         {
             "Titulo": "",
-            "nombre":"Corona 3430",
+            "nombre":"Corona 330",
             "precio": "300",
             "descripcion": "",
             "img": "",
@@ -871,7 +871,7 @@
             "stock":"true"
         },
         {
-            "Titulo": "Tragos",
+            "Titulo": "",
             "nombre": "Gin Tonic Especial",
             "precio": "500",
             "descripcion": "Beefeter, Bombay, Bulldog",
