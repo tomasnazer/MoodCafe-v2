@@ -1,5 +1,5 @@
 <template>
-    <input type="text" v-model="search" @click="isInputOpen = !isInputOpen" />
+    <input type="text" v-model="search" @focus="isInputOpen = !isInputOpen" @blur="isInputOpen= false" />
     <div class="Product-box" v-for="product in filteredProducts" :key="product.id">
             <h1 v-show="product.Titulo != ''">{{ product.Titulo }}</h1>
             <img v-show="product.img != ''" :src="'/static/' + product.img" :alt="product.nombre" class="img-box">
@@ -63,6 +63,9 @@ export default {
 </script>
 
 <style scoped>
+input {
+    width: 100%;
+}
 .Product-box {
     display: flex;
     flex-direction: column; 
