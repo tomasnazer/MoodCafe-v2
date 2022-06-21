@@ -21,7 +21,7 @@
         {
             "id":3,
             "Titulo":"",
-            "nombre":"Cafe espresso",
+            "nombre":"Café espresso",
             "precio": "200",
             "descripcion": "Medida de cafe de 60ml",
             "img": "",
@@ -136,7 +136,7 @@
             "stock": "true"
         },
         {
-            "id":15,
+            "id":81,
             "Titulo":"",
             "nombre": "Té con hierbas",
             "precio": "150",
@@ -514,7 +514,7 @@
             "stock": "true"
         },
         {
-            "id":55,
+            "id":83,
             "Titulo":"",
             "nombre": "Tostadas",
             "precio": "200",
@@ -577,7 +577,7 @@
             "stock": "true"
         },
         {
-            "id":61,
+            "id":82,
             "Titulo":"",
             "nombre": "Gourmet",
             "precio": "350",
