@@ -12,7 +12,7 @@
             <p class="description">{{product.descripcion}}</p>
             <p class="stock" v-show="product.stock != 'true'">Sin stock!</p>
     </div>
-    <div v-if="isInputOpen === false">
+    <div v-if="isInputOpen === true">
         <ProductsCoffee :products="products" />
     </div>
 </template>
