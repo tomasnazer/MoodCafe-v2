@@ -1,5 +1,6 @@
 <template>
     <input type="text" v-model="search" @focus="isInputOpen = !isInputOpen" @blur="isInputOpen= false" />
+    <font-awesome-icon icon="search" />
     <div class="Product-box" v-for="product in filteredProducts" :key="product.id">
             <h1 v-show="product.Titulo != ''">{{ product.Titulo }}</h1>
             <img v-show="product.img != ''" :src="'/static/' + product.img" :alt="product.nombre" class="img-box">
