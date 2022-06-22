@@ -1,6 +1,10 @@
 <template>
-    <input type="text" v-model="search" @focus="isInputOpen = !isInputOpen" @blur="isInputOpen= false" />
-    <font-awesome-icon icon="search" />
+    <div class="search-input">
+            <input type="text" 
+                    placeholder="Buscá tu producto..."
+                    name="uname" v-model="search" @focus="isInputOpen = !isInputOpen" @blur="isInputOpen= false"> 
+            <font-awesome-icon class="icono" icon="search" />
+    </div>
     <div class="Product-box" v-for="product in filteredProducts" :key="product.id">
             <h1 v-show="product.Titulo != ''">{{ product.Titulo }}</h1>
             <img v-show="product.img != ''" :src="'/static/' + product.img" :alt="product.nombre" class="img-box">
@@ -64,9 +68,27 @@ export default {
 </script>
 
 <style scoped>
-input {
-    width: 100%;
+input { 
+            width: 100%; 
+            padding: 12px 40px;  
+            display: inline-block; 
+            border: 1px solid #ccc; 
+            box-sizing: border-box; 
+            outline: none;
+} 
+.search-input {
+            position: relative;
 }
+          
+.icono {
+            position: absolute;
+            left: 10px;
+            top: 10px;
+            color: gray;
+            font-size: 20px;
+            text-align: center;
+}
+    
 .Product-box {
     display: flex;
     flex-direction: column; 
