@@ -7,8 +7,7 @@
                 </picture>
                 </a>
             </li>
-            <li @click.prevent="isMenuOpen = !isMenuOpen"><a href="" id="menu-icon"><span class="material-icons-outlined">
-                reorder</span></a>
+            <li @click.prevent="isMenuOpen = !isMenuOpen"><a href="" id="menu-icon"><font-awesome-icon class="font-icon" icon="fa-solid fa-bars" /></a>
             </li>
         </ul>
         <ul id="smenu" class="submenu" :class="{'show': isMenuOpen == true}">
@@ -65,10 +64,10 @@ ul {
     justify-content: flex-end;
 }
 
-.material-icons-outlined {
+.font-icon {
     display: flex;
     font-size: 3rem;
-    margin-left: 6px;
+    margin-left: 10px;
 }
 
 #menu-icon {

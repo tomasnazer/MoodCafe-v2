@@ -47,19 +47,30 @@ export default {
     margin-top: 5px;
     width: 100vw;
 }
+.ig img{
+    width: 45px;
+    height: 45px;
+}
 
+.fb img {
+    width: 45px;
+    height: 45px;
+}
 
-
-
-
+.wsp img {
+    width: 40px;
+    height: 40px;
+}
 
 .direction-container {
     margin-top: 10px;
     text-align: center;
-    color: white;
+    color: rgb(255, 254, 254);
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
+    font-size: .9rem;
     margin-left: 5px;
     margin-right: 5px;
+    font-display: swap,
 }
 </style>
