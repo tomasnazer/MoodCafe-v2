@@ -48,20 +48,10 @@ export default {
     width: 100vw;
 }
 
-.ig img{
-    width: 45px;
-    height: 45px;
-}
 
-.fb img {
-    width: 45px;
-    height: 45px;
-}
 
-.wsp img {
-    width: 40px;
-    height: 40px;
-}
+
+
 
 .direction-container {
     margin-top: 10px;
