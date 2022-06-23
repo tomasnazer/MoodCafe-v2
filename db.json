@@ -372,7 +372,7 @@
         {
             "id":39,
             "Titulo":"",
-            "nombre": "",
+            "nombre": "Yogur",
             "precio": "500",
             "descripcion": "con frutas naturales y granola",
             "img": "",
@@ -381,7 +381,7 @@
         {
             "id":40,
             "Titulo":"",
-            "nombre": "",
+            "nombre": "Yogur",
             "precio": "600",
             "descripcion": "con arándanos, miel y granola",
             "img": "",
@@ -417,7 +417,7 @@
         {
             "id":45,
             "Titulo":"Milkshakes",
-            "nombre": "",
+            "nombre": "Milkshake",
             "precio": "450",
             "descripcion": "Oreo",
             "img": "milkshake.jpg",
@@ -426,7 +426,7 @@
         {
             "id":46,
             "Titulo":"",
-            "nombre": "",
+            "nombre": "Milkshake",
             "precio": "450",
             "descripcion": "Dulce de leche",
             "img": "",
@@ -435,7 +435,7 @@
         {
             "id":47,
             "Titulo":"",
-            "nombre": "",
+            "nombre": "Milkshake",
             "precio": "450",
             "descripcion": "Chocolate",
             "img": "",
@@ -444,7 +444,7 @@
         {
             "id":48,
             "Titulo":"",
-            "nombre": "",
+            "nombre": "Milkshake",
             "precio": "500",
             "descripcion": "Nutella",
             "img": "",
@@ -462,7 +462,7 @@
         {
             "id":50,
             "Titulo":"",
-            "nombre": "Frutos Rojos",
+            "nombre": "Frappe Frutos Rojos",
             "precio": "500",
             "descripcion": "Hielo, café, leche, crema y salsa de frutos rojos",
             "img": "",
@@ -471,7 +471,7 @@
         {
             "id":51,
             "Titulo":"",
-            "nombre": "Dulce de leche",
+            "nombre": "Frappe Dulce de leche",
             "precio": "500",
             "descripcion": "Hielo, café, leche, crema y dulce de leche",
             "img": "",
@@ -480,7 +480,7 @@
         {
             "id":52,
             "Titulo":"",
-            "nombre": "Frozzen Latte",
+            "nombre": "Frappe Frozzen Latte",
             "precio": "500",           
             "descripcion": "Hielo, café, leche, crema, caramelo y vainilla",
             "img": "",

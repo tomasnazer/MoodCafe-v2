@@ -35,6 +35,8 @@ h1 {
     text-align: center;
 }
 .img-box {
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
     margin-top: 10px;
     margin-bottom: 50px;
