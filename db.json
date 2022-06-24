@@ -552,7 +552,7 @@
         {
             "id":59,
             "Titulo":"",
-            "nombre": "Crudo",
+            "nombre": "Croissant Crudo",
             "precio": "250",
             "descripcion": "con queso y jamón crudo",
             "img": "",
@@ -561,7 +561,7 @@
         {
             "id":60,
             "Titulo":"",
-            "nombre": "Nutella I",
+            "nombre": "Croissant Nutella I",
             "precio": "250",
             "descripcion": "Relleno de nutella",
             "img": "croissantnutella.jpg",
@@ -570,7 +570,7 @@
         {
             "id":61,
             "Titulo":"",
-            "nombre": "Nutella II",
+            "nombre": "Croissant Nutella II",
             "precio": "280",
             "descripcion": "Relleno de nutella y banana",
             "img": "",
@@ -579,7 +579,7 @@
         {
             "id":82,
             "Titulo":"",
-            "nombre": "Gourmet",
+            "nombre": "Croissant Gourmet",
             "precio": "350",
             "descripcion": "Con queso crema y jamón. Gratinado con queso y con un huevo a la plancha",
             "img": "croissantgourmet.jpg",
@@ -588,7 +588,7 @@
         {
             "id":62,
             "Titulo":"",
-            "nombre": "Americano",
+            "nombre": "Croissant Americano",
             "precio": "350",
             "descripcion": "Con revuelto de huevo y bacon",
             "img": "croissantamericano.jpg",
@@ -597,7 +597,7 @@
         {
             "id":63,
             "Titulo":"",
-            "nombre": "Primavera",
+            "nombre": "Croissant Primavera",
             "precio": "350",
             "descripcion": "Con frutas de estación y crema chantilly",
             "img": "",
@@ -651,45 +651,45 @@
         {
             "id":69,
             "Titulo":"Tortas",
-            "nombre": "",
+            "nombre": "Porc. Postre Balcarce",
             "precio": "500",
-            "descripcion": "Porción postre balcarce",
+            "descripcion": "tiramisú/vainilla/chocolate",
             "img": "tortas.jpg",
             "stock": "true"
         },
         {
             "id":70,
             "Titulo":"",
-            "nombre": "",
+            "nombre": "Porc. Lemon Pie",
             "precio": "500",
-            "descripcion": "Porción lemon pie",
+            "descripcion": "",
             "img": "",
             "stock": "true"
         },
         {
             "id":71,
             "Titulo":"",
-            "nombre": "",
+            "nombre": "Porc. Marquise de Chocolate",
             "precio": "500",
-            "descripcion": "Porción marquise de chocolate",
+            "descripcion": "",
             "img": "",
             "stock": "true"
         },
         {
             "id":72,
             "Titulo":"",
-            "nombre": "",
+            "nombre": "Porc. de Cheesecake",
             "precio": "500",
-            "descripcion": "Porción de cheesecake",
+            "descripcion": "",
             "img": "",
             "stock": "true"
         },
         {
             "id":73,
             "Titulo":"",
-            "nombre": "",
+            "nombre": "Porc. de Chocotorta",
             "precio": "500",
-            "descripcion": "Porción de chocotorta",
+            "descripcion": "",
             "img": "",
             "stock": "true"
         },
@@ -699,7 +699,7 @@
             "nombre": "",
             "precio": "2300",
             "descripcion": "Postre Helado 700gr",
-            "img": "",
+            "img": "alfajores.jpg",
             "stock": "true"
         },
         {
