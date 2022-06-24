@@ -1,34 +1,28 @@
 <template>
-<div class="container">
-    <picture class="logo-container">
-            <img src="../assets/images/logobiig.png" alt="mood-logo">
-        </picture>
-        <div class="form-container">
            <form @submit.prevent="sendEmail">
-            <input 
+            <h2>CONTACTANOS</h2>
+            <p type="Nombre"><input 
               type="text" 
               v-model="name"
               name="name"
               placeholder="Nombre"
-            >
-            <input 
+              required
+            ></p>
+            <p type="Email"><input
               type="email" 
               v-model="email"
               name="email"
               placeholder="Mail"
-              >
-            <textarea 
-              name="Mensaje"
+              ></p>
+            <p type="Mensaje">
+              <input type="text"
               v-model="message"
-              cols="30" rows="5"
-              placeholder="Message"
+              name="Mensaje"
+              placeholder="Escribí tu mensaje"
               required>
-            </textarea>
-            
-            <input class="button-input" type="submit" value="Send">
+            </p>
+            <input class="button-input" type="submit" value="Enviar">
         </form>
-        </div>
-</div>
 </template>
 
 <script>
@@ -66,10 +60,30 @@ export default {
 </script>
 
 <style scoped>
-.container{
+
+form{width:340px;height:440px;background:#e6e6e6;border-radius:8px;box-shadow:0 0 40px -10px #000;margin:calc(50vh - 220px) auto;padding:20px 30px;max-width:calc(100vw - 40px);box-sizing:border-box;font-family:'Montserrat',sans-serif;position:relative;font-weight: bolder;}
+
+h2{margin:10px 0;padding-bottom:10px;width:180px;color:#000000;border-bottom:3px solid #000000}
+
+input{width:100%;padding:10px;box-sizing:border-box;background:none;outline:none;resize:none;border:0;font-family:'Montserrat',sans-serif;transition:all .3s;border-bottom:2px solid #000000;font-weight: bolder;}
+
+input:focus{border-bottom:2px solid #78788c}
+
+p:before{content:attr(type);display:block;margin:28px 0 0;font-size:14px;color:#000000}
+
+.button-input{float:right;padding:8px 12px;margin:8px 0 0;font-family:'Montserrat',sans-serif;border:2px solid #78788c;background:0;color:#000000;cursor:pointer;transition:all .3s}
+.button-input:hover{background:#78788c;color:#fff}
+
+
+
+
+
+/* .container{
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 60%;
+    margin: auto;
     margin-bottom: 160px;
 }
 
@@ -81,6 +95,7 @@ img{
 input{
     display: flex;
     flex-direction: column;
+    align-content: center;
     margin: 30px;
     width: 60vw;
     height: 25px;
@@ -105,6 +120,6 @@ textarea{
     text-align: center;
     align-items: center;
     margin-bottom: 30px;
-}
+} */
 
 </style>
