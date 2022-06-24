@@ -46,8 +46,8 @@ export default {
   methods: {
     sendEmail(e) {
       try {
-        emailjs.sendForm('service_i7bkyck', 'template_7s1y1m4', e.target,
-        'oviHKd3tV-8OF5ZBv', {
+        emailjs.sendForm('service_pxkp0yq', 'template_nl2xohc', e.target,
+        'eeYwbppm9Jtk_OqbW', {
           name: this.name,
           email: this.email,
           message: this.message
