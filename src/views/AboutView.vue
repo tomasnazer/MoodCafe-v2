@@ -12,7 +12,7 @@
         <h2>Trabajá con nosotros</h2>
         <div class="text">
             <p>Si tenes experiencia siendo mozo, cafetero, personal de cocina</p>
-            <p>Envíanos un mail con tu curriculum a mail@mail.com</p>
+            <p>Envíanos un mail con tu curriculum a moodcafe154@gmail.com</p>
         </div>
        
     </section>
@@ -24,7 +24,7 @@ section{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 160px;
+    margin-bottom: 190px;
 }
 
 img{
