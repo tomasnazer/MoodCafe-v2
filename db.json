@@ -37,6 +37,15 @@
             "stock": "true"
         },
         {
+            "id":92,
+            "Titulo":"",
+            "nombre":"Café Alfajor",
+            "precio": "",
+            "descripcion": "Café con alfajor balcarce y leche",
+            "img": "",
+            "stock": "true"
+        },
+        {
             "id":5,
             "Titulo":"CAPUCCINOS Y LATTES",
             "nombre": "Capuccino Clásico",
