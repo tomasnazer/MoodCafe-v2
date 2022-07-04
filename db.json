@@ -3,29 +3,38 @@
         {
             "id":1,
             "Titulo":"CAFETERIA",
-            "nombre": "Café Doble",
-            "precio": "250",
-            "descripcion": "Doble medida de espresso",
+            "nombre": "Pedilos con leche de almendras",
+            "precio": "90",
+            "descripcion": "",
             "img": "Cafeconleche.jpg",
+            "stock": "true"
+        },
+        {
+            "id":92,
+            "Titulo":"",
+            "nombre": "Café Doble",
+            "precio": "320",
+            "descripcion": "Doble medida de espresso",
+            "img": "",
             "stock": "true"
         },
         {
             "id":2,
             "Titulo":"",
             "nombre": "Café Americano",
-            "precio": "220",
+            "precio": "290",
             "descripcion": "Base de espresso y agua",
             "img": "",
-            "stock": "false"
+            "stock": "true"
         },
         {
             "id":3,
             "Titulo":"",
             "nombre":"Café espresso",
-            "precio": "200",
+            "precio": "250",
             "descripcion": "Medida de cafe de 60ml",
             "img": "",
-            "stock": "false"
+            "stock": "true"
         },
         {
             "id":4,
@@ -40,7 +49,7 @@
             "id":92,
             "Titulo":"",
             "nombre":"Café Alfajor",
-            "precio": "",
+            "precio": "370",
             "descripcion": "Café con alfajor balcarce y leche",
             "img": "",
             "stock": "true"
@@ -49,7 +58,7 @@
             "id":5,
             "Titulo":"CAPUCCINOS Y LATTES",
             "nombre": "Capuccino Clásico",
-            "precio": "300",
+            "precio": "350",
             "descripcion": "Doble medida de espresso",
             "img": "latte1.jpg",
             "stock": "true"
@@ -58,7 +67,7 @@
             "id":6,
             "Titulo":"",
             "nombre": "Capuccino Italiano",
-            "precio": "300",
+            "precio": "370",
             "descripcion": "Doble medida de espresso",
             "img": "",
             "stock": "true"
@@ -67,17 +76,26 @@
             "id":7,
             "Titulo":"",
             "nombre": "Capuccino de Dulce de leche",
-            "precio": "300",
+            "precio": "370",
             "descripcion": "Doble medida de espresso",
             "img": "",
-            "stock": "false"
+            "stock": "true"
         },
         {
             "id":8,
             "Titulo":"",
             "nombre": "Capuccino de leche condensada",
-            "precio": "300",
+            "precio": "370",
             "descripcion": "Doble medida de espresso",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":101,
+            "Titulo":"",
+            "nombre": "Latte",
+            "precio": "370",
+            "descripcion": "Base de espresso, con leche y espuma de leche",
             "img": "",
             "stock": "true"
         },
@@ -85,8 +103,71 @@
             "id":9,
             "Titulo":"",
             "nombre": "Nutelatte",
-            "precio": "350",
+            "precio": "370",
             "descripcion": "Café con leche con porcion de nutella",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":102,
+            "Titulo":"",
+            "nombre": "Caramel Latte",
+            "precio": "370",
+            "descripcion": "Decorado sobre un colchón de salsa de caramelo",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":103,
+            "Titulo":"",
+            "nombre": "Latte Blanco",
+            "precio": "370",
+            "descripcion": "Preparado sobre un colchón de sirope de chocolate blanco",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":104,
+            "Titulo":"",
+            "nombre": "Latte de Dulce de leche",
+            "precio": "370",
+            "descripcion": "Decorado con una base de salsa de dulce de leche",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":105,
+            "Titulo":"",
+            "nombre": "Moca",
+            "precio": "370",
+            "descripcion": "Espresso mezclado con salsa de chocolate, cacao en polvo y rellenado con leche texturizada",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":106,
+            "Titulo":"",
+            "nombre": "Mocaccino",
+            "precio": "370",
+            "descripcion": "Espresso mezclado con salsa de chocolate, cacao en polvo y espuma de leche",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":107,
+            "Titulo":"",
+            "nombre": "Café Bombon",
+            "precio": "370",
+            "descripcion": "Base de espresso con leche condensada y espuma de leche",
+            "img": "",
+            "stock": "true"
+        },
+        {
+            "id":108,
+            "Titulo":"",
+            "nombre": "Submarino",
+            "precio": "370",
+            "descripcion": "",
             "img": "",
             "stock": "true"
         },
@@ -115,7 +196,7 @@
             "precio": "500",
             "descripcion": "Bebida dulce con base de espresso sobre 2 bochas de crema americana",
             "img": "",
-            "stock": "false"
+            "stock": "true"
         },
         {
             "id":13,
@@ -196,7 +277,7 @@
             "precio": "300",
             "descripcion": "Café con leche + Tostado de Jamon y Queso",
             "img": "moodiii.jpg",
-            "stock": "false"
+            "stock": "true"
         },
         {
             "id":21,
@@ -394,7 +475,7 @@
             "precio": "600",
             "descripcion": "con arándanos, miel y granola",
             "img": "",
-            "stock": "true"
+            "stock": "false"
         },
         {
             "id":42,
@@ -410,7 +491,7 @@
             "Titulo":"",
             "nombre": "Coco",
             "precio": "450",
-            "descripcion": "Leche de coco y almendra, avnea, banana, azucar y jengibre",
+            "descripcion": "Leche de coco y almendra, avena, banana, azucar y jengibre",
             "img": "",
             "stock": "true"
         },
@@ -754,7 +835,7 @@
             "precio": "140",
             "descripcion": "Budincitos",
             "img": "",
-            "stock": "true"
+            "stock": "false"
         }
     ],
 
@@ -784,7 +865,7 @@
             "precio": "250",
             "descripcion": "",
             "img": "",
-            "stock":"false"
+            "stock":"true"
         },
         {
             "id": 204,
@@ -991,7 +1072,7 @@
             "precio": "600",
             "descripcion": "Helado de americana y licor amarula",
             "img": "",
-            "stock":"true"
+            "stock":"false"
         },
         {
             "id": 227,
@@ -1027,7 +1108,7 @@
             "precio": "500",
             "descripcion": "Chivas 12",
             "img": "",
-            "stock":"true"
+            "stock":"false"
         },
         {
             "id": 231,
@@ -1162,7 +1243,7 @@
             "precio": "2300",
             "descripcion": "Malbec",
             "img": "",
-            "stock":"false"
+            "stock":"true"
         },
         {
             "id": 246,
@@ -1192,7 +1273,7 @@
             "precio": "700",
             "descripcion": "Papas con cheddar y bacon",
             "img": "",
-            "stock": "false"
+            "stock": "true"
     
         },
         {
@@ -1238,7 +1319,7 @@
             "precio": "1100",
             "descripcion": "Queso mozzarella, salsa de tomate y calabresa",
             "img": "",
-            "stock": "false"
+            "stock": "true"
         },
         {
             "id": 408,
