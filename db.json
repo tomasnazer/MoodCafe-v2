@@ -1496,7 +1496,7 @@
             "id": 427,
             "Titulo":"Picadas",
             "nombre":"Criolla",
-            "precio": "1000",
+            "precio": "1500",
             "descripcion": "Queso roquefort, jamón crudo, queso barra, jamón cocido, queso holanda y pan",
             "img": "picada.jpg",
             "stock": "true"
@@ -1505,7 +1505,7 @@
             "id": 428,
             "Titulo":"",
             "nombre":"Tabla MooD",
-            "precio": "2000",
+            "precio": "2600",
             "descripcion": "Milanesas de carne, papas fritas, bastones de muzzarella, alitas de pollo",
             "img": "",
             "stock": "true"
@@ -1595,7 +1595,7 @@
             "id": 438,
             "Titulo":"",
             "nombre":"Raviolón MooD",
-            "precio": "",
+            "precio": "800",
             "descripcion": "",
             "img": "",
             "stock": "true"
