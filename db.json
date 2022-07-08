@@ -22,7 +22,7 @@
             "id":2,
             "Titulo":"",
             "nombre": "Café Americano",
-            "precio": "290",
+            "precio": "250",
             "descripcion": "Base de espresso y agua",
             "img": "",
             "stock": "true"
@@ -31,7 +31,7 @@
             "id":3,
             "Titulo":"",
             "nombre":"Café espresso",
-            "precio": "250",
+            "precio": "200",
             "descripcion": "Medida de cafe de 60ml",
             "img": "",
             "stock": "true"
@@ -175,7 +175,7 @@
             "id":10,
             "Titulo":"FRIOS",
             "nombre": "Ice Lattes",
-            "precio": "350",
+            "precio": "300",
             "descripcion": "Bebida fria con hielo, base de espresso, leche y caramelo",
             "img": "icecoffe.jpg",
             "stock": "true"
@@ -184,7 +184,7 @@
             "id":11,
             "Titulo":"",
             "nombre": "Moccacino Frío",
-            "precio": "350",
+            "precio": "370",
             "descripcion": "Espresso mezclado salsa de chocolate, cacao en polvo y espuma de leche",
             "img": "",
             "stock": "true"
@@ -193,7 +193,7 @@
             "id":12,
             "Titulo":"",
             "nombre": "Afogatto",
-            "precio": "500",
+            "precio": "420",
             "descripcion": "Bebida dulce con base de espresso sobre 2 bochas de crema americana",
             "img": "",
             "stock": "true"
@@ -202,7 +202,7 @@
             "id":13,
             "Titulo":"",
             "nombre": "Ice Americano",
-            "precio": "350",
+            "precio": "250",
             "descripcion": "Base de hielo y espresso sobre un colchón de agua filtrada",
             "img": "",
             "stock": "true"
@@ -211,7 +211,7 @@
             "id":14,
             "Titulo":"",
             "nombre": "Chocolatada",
-            "precio": "300",
+            "precio": "250",
             "descripcion": "",
             "img": "",
             "stock": "true"
@@ -238,7 +238,7 @@
             "id":16,
             "Titulo":"",
             "nombre": "Mate cocido",
-            "precio": "200",
+            "precio": "150",
             "descripcion": "",
             "img": "",
             "stock": "true"
@@ -247,7 +247,7 @@
             "id":17,
             "Titulo":"",
             "nombre": "Mate cocido con leche",
-            "precio": "220",
+            "precio": "170",
             "descripcion": "",
             "img": "",
             "stock": "true"
@@ -256,7 +256,7 @@
             "id":18,
             "Titulo":"COMBOS",
             "nombre": "MooD I",
-            "precio": "300",
+            "precio": "400",
             "descripcion": "Café con leche + 2 medialunas",
             "img": "moodI.jpg",
             "stock": "true"
@@ -265,7 +265,7 @@
             "id":19,
             "Titulo":"",
             "nombre": "MooD II",
-            "precio": "300",
+            "precio": "450",
             "descripcion": "Café con leche + 2 tostadas con untables",
             "img": "",
             "stock": "true"
@@ -274,7 +274,7 @@
             "id":20,
             "Titulo":"",
             "nombre": "Mood III",
-            "precio": "300",
+            "precio": "700",
             "descripcion": "Café con leche + Tostado de Jamon y Queso",
             "img": "moodiii.jpg",
             "stock": "true"
@@ -283,7 +283,7 @@
             "id":21,
             "Titulo":"",
             "nombre": "MooD IV",
-            "precio": "300",
+            "precio": "450",
             "descripcion": "Café con leche + Porción de Chipá",
             "img": "",
             "stock": "true"
@@ -292,7 +292,7 @@
             "id":22,
             "Titulo":"",
             "nombre": "Balcarce I",
-            "precio": "300",
+            "precio": "350",
             "descripcion": "Jarrita con producto balcarce(Alfajor/Galletita/Conito",
             "img": "",
             "stock": "true"
@@ -301,7 +301,7 @@
             "id":23,
             "Titulo":"",
             "nombre": "Balcarce II",
-            "precio": "300",
+            "precio": "600",
             "descripcion": "Jarrita con Porción de Torta Balcarce",
             "img": "",
             "stock": "true"
@@ -310,7 +310,7 @@
             "id":24,
             "Titulo":"",
             "nombre": "Natural",
-            "precio": "700",
+            "precio": "570",
             "descripcion": "Café con leche o té, yogur con frutas y granola, copa de jugo",
             "img": "",
             "stock": "true"
@@ -319,7 +319,7 @@
             "id":25,
             "Titulo":"",
             "nombre": "Desayuno Americano",
-            "precio": "700",
+            "precio": "800",
             "descripcion": "Café con leche + revuelto de huevo y bacon",
             "img": "desayunoamericano.jpg",
             "stock": "true"
@@ -328,7 +328,7 @@
             "id":26,
             "Titulo":"",
             "nombre": "Saludable",
-            "precio": "700",
+            "precio": "670",
             "descripcion": "Bowl de granola con tostadas acompañadas de miel y frutas de estación, mini jugo de naranja",
             "img": "",
             "stock": "true"
@@ -337,7 +337,7 @@
             "id":27,
             "Titulo":"",
             "nombre": "Clásico",
-            "precio": "1100",
+            "precio": "1150",
             "descripcion": "2 café con leche, 2 medialunas, tostadas con queso o manteca y dulce de leche, 6 chipa y 2 mini jugos de naranja",
             "img": "",
             "stock": "true"
@@ -346,7 +346,7 @@
             "id":28,
             "Titulo":"",
             "nombre": "Completo",
-            "precio": "1400",
+            "precio": "1750",
             "descripcion": "2 café con leche, 2 medialunas,2 jugos chicos,2 mini tostados , chipa y torta",
             "img": "completo.jpg",
             "stock": "true"
@@ -364,7 +364,7 @@
             "id":41,
             "Titulo":"",
             "nombre": "",
-            "precio": "350",
+            "precio": "380",
             "descripcion": "Jugo de Naranja Grande",
             "img": "",
             "stock": "true"
@@ -373,7 +373,7 @@
             "id":30,
             "Titulo":"",
             "nombre": "",
-            "precio": "250",
+            "precio": "300",
             "descripcion": "Jugo de Naranja Mediano",
             "img": "",
             "stock": "true"
@@ -382,7 +382,7 @@
             "id":31,
             "Titulo":"",
             "nombre": "",
-            "precio": "150",
+            "precio": "120",
             "descripcion": "Jugo de Naranja Chico",
             "img": "",
             "stock": "true"
@@ -391,7 +391,7 @@
             "id":32,
             "Titulo":"",
             "nombre": "Licuado de fruta c/ leche o agua",
-            "precio": "390",
+            "precio": "420",
             "descripcion": "Ananá. banana, frutilla, durazno, multifruta",
             "img": "",
             "stock": "true"
@@ -409,7 +409,7 @@
             "id":34,
             "Titulo":"",
             "nombre": "Jarra de limonada",
-            "precio": "500",
+            "precio": "600",
             "descripcion": "",
             "img": "",
             "stock": "true"
@@ -418,7 +418,7 @@
             "id":35,
             "Titulo":"Waffles",
             "nombre": "Frutas de Estación",
-            "precio": "500",
+            "precio": "400",
             "descripcion": "Frutas de estación y miel",
             "img": "wafflefrutas.jpg",
             "stock": "true"
@@ -427,7 +427,7 @@
             "id":36,
             "Titulo":"",
             "nombre": "Nutella",
-            "precio": "600",
+            "precio": "530",
             "descripcion": "Helado de americana, helado de dulce leche, nutella y granola",
             "img": "",
             "stock": "true"
@@ -436,7 +436,7 @@
             "id":37,
             "Titulo":"",
             "nombre": "Oreo",
-            "precio": "600",
+            "precio": "540",
             "descripcion": "Helado de americana, oreos y salsa de chocolate",
             "img": "",
             "stock": "true"
@@ -508,7 +508,7 @@
             "id":45,
             "Titulo":"Milkshakes",
             "nombre": "Milkshake",
-            "precio": "450",
+            "precio": "480",
             "descripcion": "Oreo",
             "img": "milkshake.jpg",
             "stock": "true"
@@ -517,7 +517,7 @@
             "id":46,
             "Titulo":"",
             "nombre": "Milkshake",
-            "precio": "450",
+            "precio": "480",
             "descripcion": "Dulce de leche",
             "img": "",
             "stock": "true"
@@ -526,7 +526,7 @@
             "id":47,
             "Titulo":"",
             "nombre": "Milkshake",
-            "precio": "450",
+            "precio": "480",
             "descripcion": "Chocolate",
             "img": "",
             "stock": "true"
@@ -535,7 +535,7 @@
             "id":48,
             "Titulo":"",
             "nombre": "Milkshake",
-            "precio": "500",
+            "precio": "480",
             "descripcion": "Nutella",
             "img": "",
             "stock": "true"
@@ -544,7 +544,7 @@
             "id":49,
             "Titulo":"Frappes",
             "nombre": "Frappe Mocca",
-            "precio": "500",
+            "precio": "480",
             "descripcion": "Hielo, café, leche, crema y cacao",
             "img": "frappemocca.jpg",
             "stock": "true"
@@ -553,7 +553,7 @@
             "id":50,
             "Titulo":"",
             "nombre": "Frappe Frutos Rojos",
-            "precio": "500",
+            "precio": "480",
             "descripcion": "Hielo, café, leche, crema y salsa de frutos rojos",
             "img": "",
             "stock": "true"
@@ -562,7 +562,7 @@
             "id":51,
             "Titulo":"",
             "nombre": "Frappe Dulce de leche",
-            "precio": "500",
+            "precio": "480",
             "descripcion": "Hielo, café, leche, crema y dulce de leche",
             "img": "",
             "stock": "true"
@@ -571,7 +571,7 @@
             "id":52,
             "Titulo":"",
             "nombre": "Frappe Frozzen Latte",
-            "precio": "500",           
+            "precio": "480",           
             "descripcion": "Hielo, café, leche, crema, caramelo y vainilla",
             "img": "",
             "stock": "true"
@@ -580,7 +580,7 @@
             "id":53,
             "Titulo":"",
             "nombre": "Mocca Blanco",
-            "precio": "500",
+            "precio": "480",
             "descripcion": "Hielo, café, leche, crema y chocolate blanco",
             "img": "",
             "stock": "true"
@@ -616,7 +616,7 @@
             "id":56,
             "Titulo":"",
             "nombre": "Avocado Toast",
-            "precio": "400",
+            "precio": "500",
             "descripcion": "Palta, huevo y queso crema",
             "img": "",
             "stock": "true"
@@ -625,7 +625,7 @@
             "id":57,
             "Titulo":"",
             "nombre": "Fresh Toast",
-            "precio": "400",
+            "precio": "250",
             "descripcion": "Con frutas de estación y miel",
             "img": "",
             "stock": "true"
@@ -907,7 +907,7 @@
             "id": 208,
             "Titulo": "Cervezas",
             "nombre":"Corona 710",
-            "precio": "600",
+            "precio": "750",
             "descripcion": "",
             "img": "corona.jpg",
             "stock":"true"
@@ -916,7 +916,7 @@
             "id": 209,
             "Titulo": "",
             "nombre":"Patagonia 730",
-            "precio": "600",
+            "precio": "750",
             "descripcion": "",
             "img": "",
             "stock":"true"
@@ -925,7 +925,7 @@
             "id": 210,
             "Titulo": "",
             "nombre":"Budweiser 710",
-            "precio": "600",
+            "precio": "510",
             "descripcion": "",
             "img": "",
             "stock":"true"
@@ -934,7 +934,7 @@
             "id": 211,
             "Titulo": "",
             "nombre":"Stella Artois 710",
-            "precio": "600",
+            "precio": "750",
             "descripcion": "",
             "img": "",
             "stock":"true"
