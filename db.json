@@ -925,7 +925,7 @@
             "id": 210,
             "Titulo": "",
             "nombre":"Budweiser 710",
-            "precio": "510",
+            "precio": "550",
             "descripcion": "",
             "img": "",
             "stock":"true"
@@ -943,7 +943,7 @@
             "id": 212,
             "Titulo": "",
             "nombre":"Andess 340",
-            "precio": "300",
+            "precio": "400",
             "descripcion": "",
             "img": "",
             "stock":"true"
@@ -952,7 +952,7 @@
             "id": 213,
             "Titulo": "",
             "nombre":"Stella 473",
-            "precio": "300",
+            "precio": "450",
             "descripcion": "",
             "img": "",
             "stock":"true"
@@ -961,7 +961,7 @@
             "id": 214,
             "Titulo": "",
             "nombre":"Corona 330",
-            "precio": "300",
+            "precio": "450",
             "descripcion": "",
             "img": "",
             "stock":"true"
@@ -1072,7 +1072,7 @@
             "precio": "600",
             "descripcion": "Helado de americana y licor amarula",
             "img": "",
-            "stock":"false"
+            "stock":"true"
         },
         {
             "id": 227,
