@@ -970,7 +970,7 @@
             "id": 215,
             "Titulo": "Tragos",
             "nombre": "Gin Tonic",
-            "precio": "500",
+            "precio": "600",
             "descripcion": "Medida de gin Heraclito y tonica",
             "img": "",
             "stock":"true"
@@ -979,7 +979,7 @@
             "id": 216,
             "Titulo": "",
             "nombre": "Gin Tonic Especial",
-            "precio": "500",
+            "precio": "800",
             "descripcion": "Beefeter, Bombay, Bulldog",
             "img": "",
             "stock":"true"
@@ -988,7 +988,7 @@
             "id": 217,
             "Titulo": "",
             "nombre": "Negroni",
-            "precio": "500",
+            "precio": "700",
             "descripcion": "Gin, Campari, Vermouth Rosso y rodaja de naranja",
             "img": "",
             "stock":"true"
@@ -997,7 +997,7 @@
             "id": 218,
             "Titulo": "",
             "nombre": "Spritz",
-            "precio": "500",
+            "precio": "600",
             "descripcion": "Espumante, Aperol, agua con gas y rodaja de naranja",
             "img": "",
             "stock":"true"
@@ -1006,7 +1006,7 @@
             "id": 219,
             "Titulo": "",
             "nombre":"Dry Martini",
-            "precio": "500",
+            "precio": "700",
             "descripcion": "Gin, vermouth seco, aceituna",
             "img": "",
             "stock":"false"
@@ -1015,7 +1015,7 @@
             "id": 220,
             "Titulo": "",
             "nombre":"Margarita Clásico",
-            "precio": "500",
+            "precio": "600",
             "descripcion": "Tequila, Triple Sec y Jugo de Limón",
             "img": "",
             "stock":"true"
@@ -1024,7 +1024,7 @@
             "id": 221,
             "Titulo": "",
             "nombre":"Cosmopólitan",
-            "precio": "500",
+            "precio": "700",
             "descripcion": "Vodka, triple Sec, jugo de limón y Jugo de arándanos",
             "img": "",
             "stock":"true"
@@ -1033,7 +1033,7 @@
             "id": 222,
             "Titulo": "",
             "nombre":"Mojito",
-            "precio": "500",
+            "precio": "600",
             "descripcion": "Ron, jugo de limón, azucar, menta y soda",
             "img": "",
             "stock":"true"
@@ -1042,7 +1042,7 @@
             "id": 223,
             "Titulo": "",
             "nombre":"Old fashioned",
-            "precio": "500",
+            "precio": "800",
             "descripcion": "Whisky Americano, bitter angostura, azucar, agua con gas, piel de naranja",
             "img": "",
             "stock":"true"
@@ -1051,7 +1051,7 @@
             "id": 224,
             "Titulo": "",
             "nombre":"Capirinha",
-            "precio": "500",
+            "precio": "700",
             "descripcion": "Cashaça, limón machacado y azucar",
             "img": "",
             "stock":"true"
@@ -1060,7 +1060,7 @@
             "id": 225,
             "Titulo": "",
             "nombre":"Caipiroska",
-            "precio": "500",
+            "precio": "700",
             "descripcion": "Vodka, limón machacado y azucar",
             "img": "",
             "stock":"true"
@@ -1069,7 +1069,7 @@
             "id": 226,
             "Titulo": "",
             "nombre":"Amarula",
-            "precio": "600",
+            "precio": "900",
             "descripcion": "Helado de americana y licor amarula",
             "img": "",
             "stock":"true"
@@ -1078,7 +1078,7 @@
             "id": 227,
             "Titulo": "",
             "nombre":"Americano",
-            "precio": "500",
+            "precio": "700",
             "descripcion": "Vermouth rosso con naranja exprimida",
             "img": "",
             "stock":"true"
@@ -1087,7 +1087,7 @@
             "id": 228,
             "Titulo": "",
             "nombre":"Fernet Branca",
-            "precio": "400",
+            "precio": "600",
             "descripcion": "Fernet con gaseosa cola",
             "img": "",
             "stock":"true"
